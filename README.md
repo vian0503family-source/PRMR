@@ -33,3 +33,11 @@
 1. GitHub.dev 的使用方式
 2. Repository 需要至少一個檔案才能開啟
 3. 使用視覺化介面操作 Git
+
+## Feature Branch
+這是我在 feature/first-branch 分支上的修改！
+
+### 學到的指令
+- `git branch` - 查看分支
+- `git checkout -b` - 創建並切換分支
+- `git log --graph` - 查看樹狀圖
